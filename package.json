@@ -1,14 +1,14 @@
 {
-  "name": "social-surf",
+  "name": "react-es6-webpack-axios-base_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "bundle": "webpack -d --progress --watch",
     "start": "nodemon src/server/server.js"
   },
-  "author": "Il Sima",
+  "author": "Simoncino",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.2",
